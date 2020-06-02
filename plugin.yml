@@ -1,0 +1,17 @@
+name: TopPlayers
+main: Syams255\TopPlayers
+version: 1.0.0[S255][S225]
+api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9]
+author: Syams255[S255][S225]
+
+commands:
+  top:
+    default: op
+    description: spawn floating text TOP
+    permission: top.create
+permissions:
+  top:
+    default: op
+    chidlren:
+      stp.use:
+        default: op

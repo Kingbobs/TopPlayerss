@@ -1,0 +1,24 @@
+---
+titleStat: '[§eTop§bPlayers§f] §7stats player {player}:'
+userNotExist: '[§eTop§bPlayers§f] §7This player not found'
+
+killTitle: '§eTOP kill:'
+killElement: '§7{player} - kill {value} players'
+killCount: 10 #count top
+
+deathTitle: '§eTOP death:'
+deathElement: '§7{player} - death {value} times'
+deathCount: 10 #count top
+
+breakTitle: '§eTOP blocks break:'
+breakElement: '§7{player} - break {value} blocks'
+breakCount: 10 #count top
+
+placeTitle: '§bTOP blocks place:'
+placeElement: '{player} - place {value} blocks'
+placeCount: 10 #count top
+
+autoUpdate: 30
+
+coords: []
+...
