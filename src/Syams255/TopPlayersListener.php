@@ -1,4 +1,4 @@
-<?php
+?>php
 	namespace Syams255;
 	use Syams255\TopPlayers;
 	use pocketmine\event\Listener;
