@@ -43,4 +43,4 @@
 			$this->atp->users->query("UPDATE `users` SET `break` = break + 1 WHERE `nickname` = '$player'");
 		}
 	}
-?>
+}
