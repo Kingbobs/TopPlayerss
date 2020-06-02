@@ -1,7 +1,7 @@
 name: TopPlayers
 main: Syams255\TopPlayers
-version: 1.0.0[S255][S225]
-api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9]
+version: 1.0.6
+api: [3.0.0]
 author: Syams255[S255][S225]
 
 commands:
