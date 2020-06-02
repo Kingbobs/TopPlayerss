@@ -1,4 +1,4 @@
-<?php
+?>php
 	namespace Syams255;
 	use pocketmine\plugin\PluginBase;
 	use pocketmine\utils\Config;
